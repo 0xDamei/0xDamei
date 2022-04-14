@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0xDamei
+- 👀 I’m interested in Web 3
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on Web 3
